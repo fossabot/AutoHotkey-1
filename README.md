@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2FAutoHotkey.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2FAutoHotkey?ref=badge_shield)
+
 # AutoHotkey #
 
 AutoHotkey is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that has special provision for defining keyboard shortcuts, otherwise known as hotkeys.
@@ -61,3 +63,7 @@ AutoHotkeyx.vcxproj includes the following Platforms:
   - **x64**: for Windows x64.
 
 AutoHotkey supports Windows XP with or without service packs and Windows 2000 via an asm patch (win2kcompat.asm).  Support may be removed if maintaining it becomes non-trivial.  Older versions are not supported.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2FAutoHotkey.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2FAutoHotkey?ref=badge_large)
